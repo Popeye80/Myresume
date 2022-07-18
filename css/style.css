@@ -125,9 +125,9 @@ body {
 .My-work-expirence-period {
   font-style: normal;
   font-weight: normal;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #0d0505;
   margin: 0 0 10px 0;
 }
 
@@ -137,6 +137,7 @@ body {
 
 .My-work-expirence-duties {
   padding: 0 0 0 18px;
+  list-style: none;
 }
 .My-work-expirence-duty,
 .about-project-text {
@@ -234,6 +235,7 @@ body {
 }
 .language-skills-list {
   margin-left: -25px;
+  list-style: disc;
 }
 
 .icecream,
@@ -245,10 +247,3 @@ body {
 .link {
   margin-left: -8px;
 }
-/* .about-project-text {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 24px;
-  color: #595959;
-} */
